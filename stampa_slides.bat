@@ -1,0 +1,1 @@
+jupyter nbconvert --to slides CriminiInItalia.ipynb --no-input --SlidesExporter.reveal_number='c/t'
